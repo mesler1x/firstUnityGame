@@ -21,12 +21,7 @@ public class Hero : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponentInChildren<SpriteRenderer>();
     }
-
-    private void FixedUpdate()
-    {
-        CheckGround();
-    }
-
+    
     private void Update()
     {
         
@@ -35,7 +30,7 @@ public class Hero : MonoBehaviour
             Run();
         }
 
-        if (isGrounded || Input.GetKeyDown(KeyCode.Space))
+        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(new Vector2(0, jumpForce),ForceMode2D.Impulse);
         }
@@ -48,9 +43,13 @@ public class Hero : MonoBehaviour
         sprite.flipX = dir.x < 0.0f;
     }
 
-    private void CheckGround()
+    private void OnCollisionStay2D(Collision2D collision)
     {
-        Collider2D[] collider = Physics2D.OverlapCircleAll(transform.position, 1.5f);
-        isGrounded = collider.Length > 1;
+        isGrounded = true;
+    }
+    
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        isGrounded = false;
     }
 }
