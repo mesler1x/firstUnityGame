@@ -342,3 +342,55 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1056.250024 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/FallingPlatform.prefab
+  artifactKey: Guid(cd06213e085b9354dbb509f105ee784d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/FallingPlatform.prefab using Guid(cd06213e085b9354dbb509f105ee784d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76f48ef75cec58f135cf0d525d8a3b3') in 0.118958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/SwitchCharacterVFX.prefab
+  artifactKey: Guid(f2738725b9bbed349bcd627d05745c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/SwitchCharacterVFX.prefab using Guid(f2738725b9bbed349bcd627d05745c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'defe8bb8206ee6b59cbe2191922a6eb5') in 0.029611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Wind.prefab
+  artifactKey: Guid(0446499a479df7243b848b56781221d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Wind.prefab using Guid(0446499a479df7243b848b56781221d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e3046a9519a676c3c08ec221ead758') in 0.019321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/GravityZone.prefab
+  artifactKey: Guid(baffd91489b4a334d8f9b200a17ca506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/GravityZone.prefab using Guid(baffd91489b4a334d8f9b200a17ca506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b9fdf7551ce3880c3f1dd2e4b02f17') in 0.017316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/PushableBlock.prefab
+  artifactKey: Guid(089b7c143e6cb00488280370c2f62e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/PushableBlock.prefab using Guid(089b7c143e6cb00488280370c2f62e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9e4bde6e14cecf226672dae24c2c65') in 0.017299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/SwitchModelVFX.prefab
+  artifactKey: Guid(2b3a4241413e80946ac1a8c3bd8f98ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/SwitchModelVFX.prefab using Guid(2b3a4241413e80946ac1a8c3bd8f98ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ab15f080d28c5bfa92102f5f802158') in 0.053409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/GreenGate.prefab
+  artifactKey: Guid(fdf12166dff9f4240a780cfb02080351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/GreenGate.prefab using Guid(fdf12166dff9f4240a780cfb02080351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8409b1bc289debc4d9d591d954656a4') in 0.077759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Water.prefab
+  artifactKey: Guid(1509f4011c712e249bd5d1d02410ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Water.prefab using Guid(1509f4011c712e249bd5d1d02410ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab845d204c542162f0890906cae54ce') in 0.020421 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

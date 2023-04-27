@@ -398,3 +398,175 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 588.303516 seconds.
+  path: Assets/_Forest Adventure/Art/2D Pack/Frog AI.prefab
+  artifactKey: Guid(e9a048d1bcc739d46a32776e44d57f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Forest Adventure/Art/2D Pack/Frog AI.prefab using Guid(e9a048d1bcc739d46a32776e44d57f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45dc6aa491a1bc5eba75be45c1d6a0e3') in 0.090482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.718953 seconds.
+  path: Assets/CorgiEngine/Demos/Corgi3D
+  artifactKey: Guid(f97e33a026405d844b5299e2f1cbceba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Corgi3D using Guid(f97e33a026405d844b5299e2f1cbceba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5ead69e8b7822ad5b1d1793a30a4bf') in 0.007141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.173350 seconds.
+  path: Assets/CorgiEngine/Demos/Editor
+  artifactKey: Guid(be3260aedb959f3418be23fbeb9f830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Editor using Guid(be3260aedb959f3418be23fbeb9f830a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6498f6f6dc1c30342c4f4fe874212ef') in 0.007182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.135784 seconds.
+  path: Assets/CorgiEngine/Demos/LevelSelection
+  artifactKey: Guid(dfb7f9ceac0ba574eb2f12f1c01ae0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/LevelSelection using Guid(dfb7f9ceac0ba574eb2f12f1c01ae0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09be16fc62797495ede3d49be1e01c98') in 0.006959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.167606 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal
+  artifactKey: Guid(f06b16abfa9721648b4006dc6ac4f196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal using Guid(f06b16abfa9721648b4006dc6ac4f196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03ff68449546c0ef4342de696403544') in 0.006949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.604684 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Animations
+  artifactKey: Guid(537aedaa30afb4a4684c591e8b525088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Animations using Guid(537aedaa30afb4a4684c591e8b525088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f7f4a3c7bc3beaf2ee793316391078') in 0.006611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.263495 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Data
+  artifactKey: Guid(cf150bd57783c2243945e1588eb0e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Data using Guid(cf150bd57783c2243945e1588eb0e201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199b1e19e98e7bb9d01c9fa171b28fb8') in 0.007048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.172914 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/JumpBlendTree
+  artifactKey: Guid(7bc3010910ddac84a8a931415633bf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/JumpBlendTree using Guid(7bc3010910ddac84a8a931415633bf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2cb7a4a9cca06f68f27cd819427c0e') in 0.007572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.150781 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Materials
+  artifactKey: Guid(229ccdd984b8c6e499ccd510ef91d6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Materials using Guid(229ccdd984b8c6e499ccd510ef91d6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b90ed4b1b957531edf1c3ae4e7eb9b') in 0.007096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.136489 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs
+  artifactKey: Guid(c602cdf5f5d4e2b4e873f54f5390cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs using Guid(c602cdf5f5d4e2b4e873f54f5390cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6803fad788b8cffa6600c433fc748fa') in 0.006654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.135792 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Resources
+  artifactKey: Guid(6974b6628b77e4f47bd4ff8c8cdb6379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Resources using Guid(6974b6628b77e4f47bd4ff8c8cdb6379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2c16875c3f5d752c3934db5789744d') in 0.011719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.130297 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Scripts
+  artifactKey: Guid(96ead6ff8a7bed6479d19eaf5799f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Scripts using Guid(96ead6ff8a7bed6479d19eaf5799f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a382eed28836999bc1e74936c075ae') in 0.007133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.207575 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/AI
+  artifactKey: Guid(d6ed80cc2223e4944bce5828bf8b3b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/AI using Guid(d6ed80cc2223e4944bce5828bf8b3b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53421e409c49c025a79455dbb28b8088') in 0.007143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.173301 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Camera
+  artifactKey: Guid(518114ce884e75d439debbfb54332944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Camera using Guid(518114ce884e75d439debbfb54332944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56fb83069216abbc5298d3a351c2027') in 0.006369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.147065 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/ItemPickers
+  artifactKey: Guid(d8f661d8d83f36e4c89f864db9912ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/ItemPickers using Guid(d8f661d8d83f36e4c89f864db9912ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd452a906c9cc08a6d7f9818ba6960404') in 0.007075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.135375 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/MovingPlatforms
+  artifactKey: Guid(5858c40fa3cec0f419a4e3c858d8535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/MovingPlatforms using Guid(5858c40fa3cec0f419a4e3c858d8535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551543920ef5cf1ec886a007214cd8f5') in 0.007082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.142665 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/OneWayPlatforms
+  artifactKey: Guid(209b67c16d1ec124f9117fae09ebabdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/OneWayPlatforms using Guid(209b67c16d1ec124f9117fae09ebabdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905ee694ed903508699c9bee09bac594') in 0.006969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.162285 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Platforms
+  artifactKey: Guid(b3393b5aea22a194a9bbd4a3221bb11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Platforms using Guid(b3393b5aea22a194a9bbd4a3221bb11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e36dfad86c157b530805535c9f06cab') in 0.008538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.787590 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/PlayableCharacters
+  artifactKey: Guid(60a757f8aa86e31418512772745649e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/PlayableCharacters using Guid(60a757f8aa86e31418512772745649e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aebdb54e623adf08792ce591327ebbb') in 0.006938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.167241 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props
+  artifactKey: Guid(9205e2a9a37e6a94db665d5d005e1264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props using Guid(9205e2a9a37e6a94db665d5d005e1264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6d9af425a67f12428142358115ad98') in 0.006882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.375927 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/DestructibleBlock.prefab
+  artifactKey: Guid(1501b973994b0724ab7a866ffb8ad4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/DestructibleBlock.prefab using Guid(1501b973994b0724ab7a866ffb8ad4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e2a467eeb0f71fa010e4c6ffdf5416') in 0.050740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007332 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/LadderBiDirectional.prefab
+  artifactKey: Guid(03dd11bb160cb834ca6cd6f34a90aa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/LadderBiDirectional.prefab using Guid(03dd11bb160cb834ca6cd6f34a90aa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4d9b18c466d788ee83434df1388647') in 0.020393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/MinimalShootingRangeTarget.prefab
+  artifactKey: Guid(f14b4657bb83241499634c2a3e354883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/MinimalShootingRangeTarget.prefab using Guid(f14b4657bb83241499634c2a3e354883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c3e71cbb0ed9840c79bc354b69389c') in 0.042608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/TimeZone.prefab
+  artifactKey: Guid(bc7397a50990a364ab4af763edccdee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/TimeZone.prefab using Guid(bc7397a50990a364ab4af763edccdee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123ea215ba420e533411306ef31fe8a4') in 0.033834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Rope.prefab
+  artifactKey: Guid(a0bed0fac9071ea409174afe058a7915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Rope.prefab using Guid(a0bed0fac9071ea409174afe058a7915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a6628ffce53d799f82e88085977b72') in 0.158905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/OrangePortal.prefab
+  artifactKey: Guid(1f128135aa9ce6f4e88980b970dcc0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/OrangePortal.prefab using Guid(1f128135aa9ce6f4e88980b970dcc0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1668c47104ea25f8783d0c2bfec9202') in 0.018759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Ladder.prefab
+  artifactKey: Guid(fe33994298be8d445a3955144199d82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Ladder.prefab using Guid(fe33994298be8d445a3955144199d82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01460cb77d190e4194d2fb4683f6c494') in 0.019958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Jumper.prefab
+  artifactKey: Guid(5615eafa66b59a64a957d2322158390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/Jumper.prefab using Guid(5615eafa66b59a64a957d2322158390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f11de1400edef3b120977c6ade3f8b') in 0.025121 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
