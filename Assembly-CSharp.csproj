@@ -43,6 +43,7 @@
   <ItemGroup>
      <Folder Include="Assets" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Sprites\Icons" />
+     <Folder Include="Assets\_Forest Adventure\Art\2D Pack\_Animations\gems" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Common\Shaders" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\player\hurt" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\enemy-death" />
@@ -74,6 +75,7 @@
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\InventoryEngine\Demos\PixelRogue\Resources" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\environment\props" />
+     <Folder Include="Assets\_Forest Adventure\Music" />
      <Folder Include="Assets\CorgiEngine\Common\Fonts" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Prefabs\Buttons\VerticalGradientBlueToPurple" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PSD\MISC" />
@@ -112,6 +114,7 @@
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Fonts" />
      <None Include="Assets\CorgiEngine\license.txt" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Common\Animations\Buttons\Animators" />
+     <Folder Include="Assets\_Forest Adventure\TileSets\Sunny Land" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\frog" />
      <None Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Fonts\Lato\OFL.txt" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Prefabs\Buttons\DarkerGrey" />
@@ -137,6 +140,7 @@
      <Folder Include="Assets\CorgiEngine\Common\Prefabs\Camera" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\player" />
      <Folder Include="Assets\CorgiEngine" />
+     <Folder Include="Assets\_Forest Adventure\TileSets" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\GIF\sprites\eagle" />
      <Folder Include="Assets\CorgiEngine\Common" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG" />
@@ -171,6 +175,7 @@
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMFeedbacks" />
      <Folder Include="Assets\MMData" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains" />
+     <Folder Include="Assets\_Forest Adventure\Art\2D Pack\_Animations\frog" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Sprites" />
      <Folder Include="Assets\MMData\MMAchievements" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\GIF\sprites" />
@@ -189,6 +194,7 @@
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\MMInterface\Styles\Mini\Prefabs\Buttons\Cyan" />
      <Folder Include="Assets\CorgiEngine\ThirdParty\MoreMountains\InventoryEngine\Demos\PixelRogue\Animations" />
      <Folder Include="Assets\CorgiEngine\Common\Prefabs\LevelManagers" />
+     <Folder Include="Assets\_Forest Adventure\TileSets\BG SL" />
      <Reference Include="UnityEngine">
      <HintPath>D:\Unity\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
