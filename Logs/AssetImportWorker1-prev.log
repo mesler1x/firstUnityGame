@@ -15,7 +15,7 @@ C:/Users/mesle/Desktop/Platformer
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-51801
+61476
 Successfully changed project path to: C:/Users/mesle/Desktop/Platformer
 C:/Users/mesle/Desktop/Platformer
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/mesle/Desktop/Platformer
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [7268] Host "[IP] 192.168.0.230 [Port] 0 [Flags] 2 [Guid] 1336206189 [EditorId] 1336206189 [Version] 1048832 [Id] WindowsEditor(7,Mishel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [24264] Host "[IP] 192.168.0.230 [Port] 0 [Flags] 2 [Guid] 2196994166 [EditorId] 2196994166 [Version] 1048832 [Id] WindowsEditor(7,Mishel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [7268] Host "[IP] 192.168.0.230 [Port] 0 [Flags] 2 [Guid] 1336206189 [EditorId] 1336206189 [Version] 1048832 [Id] WindowsEditor(7,Mishel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [24264] Host "[IP] 192.168.0.230 [Port] 0 [Flags] 2 [Guid] 2196994166 [EditorId] 2196994166 [Version] 1048832 [Id] WindowsEditor(7,Mishel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 185.94 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 176.89 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.21f1 (1b156197d683)
 [Subsystems] Discovering subsystems at path D:/Unity/2021.3.21f1/Editor/Data/Resources/UnitySubsystems
@@ -73,88 +73,88 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/2021.3.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity/2021.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003925 seconds.
+Registered in 0.003245 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 158.08 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 161.22 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.893 seconds
+- Completed reload, in  0.824 seconds
 Domain Reload Profiling:
-	ReloadAssembly (894ms)
-		BeginReloadAssembly (128ms)
+	ReloadAssembly (824ms)
+		BeginReloadAssembly (103ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (636ms)
-			LoadAssemblies (127ms)
+		EndReloadAssembly (608ms)
+			LoadAssemblies (102ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (151ms)
+			SetupTypeCache (135ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (384ms)
+			SetupLoadedEditorAssemblies (381ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (158ms)
+				RefreshPlugins (161ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (155ms)
-				ProcessInitializeOnLoadMethodAttributes (60ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009368 seconds.
+Registered in 0.009990 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 163.05 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 195.43 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.740 seconds
+- Completed reload, in  1.713 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1741ms)
-		BeginReloadAssembly (143ms)
+	ReloadAssembly (1714ms)
+		BeginReloadAssembly (137ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (24ms)
-		EndReloadAssembly (1468ms)
-			LoadAssemblies (133ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (1434ms)
+			LoadAssemblies (119ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (421ms)
+			SetupTypeCache (377ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (113ms)
-			SetupLoadedEditorAssemblies (726ms)
+			RebuildScriptCaches (112ms)
+			SetupLoadedEditorAssemblies (749ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (163ms)
-				BeforeProcessingInitializeOnLoad (117ms)
-				ProcessInitializeOnLoadAttributes (386ms)
+				RefreshPlugins (196ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (373ms)
 				ProcessInitializeOnLoadMethodAttributes (50ms)
 				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 2.14 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5116 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 59 unused Assets / (1.3 MB). Loaded Objects now: 5572.
 Memory consumption went from 280.4 MB to 279.0 MB.
-Total: 5.362100 ms (FindLiveObjects: 0.566500 ms CreateObjectMapping: 0.206800 ms MarkObjects: 4.214300 ms  DeleteObjects: 0.373200 ms)
+Total: 4.727600 ms (FindLiveObjects: 0.505300 ms CreateObjectMapping: 0.152200 ms MarkObjects: 3.659700 ms  DeleteObjects: 0.408900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -167,445 +167,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010405 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.38 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.258 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1259ms)
-		BeginReloadAssembly (154ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (996ms)
-			LoadAssemblies (118ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (315ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (71ms)
-			SetupLoadedEditorAssemblies (432ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (85ms)
-				ProcessInitializeOnLoadAttributes (291ms)
-				ProcessInitializeOnLoadMethodAttributes (44ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 4.33 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5058 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (1.3 MB). Loaded Objects now: 5587.
-Memory consumption went from 274.6 MB to 273.2 MB.
-Total: 4.930400 ms (FindLiveObjects: 0.524500 ms CreateObjectMapping: 0.246300 ms MarkObjects: 3.762200 ms  DeleteObjects: 0.396500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 3605.005661 seconds.
-  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Common/Sounds/BeepLong1.wav
-  artifactKey: Guid(995dd144cd94b2f4badbd49d935da73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Common/Sounds/BeepLong1.wav using Guid(995dd144cd94b2f4badbd49d935da73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5d573d94cbaaa5505868a722f539d2') in 0.185499 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Common/Sounds/BeepLong2.wav
-  artifactKey: Guid(7fdfe8bf6f6061c49ba87c3363b5f5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMInterface/Common/Sounds/BeepLong2.wav using Guid(7fdfe8bf6f6061c49ba87c3363b5f5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bddaa95721d2f22ee05b0338f6b84d0') in 0.021134 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.735913 seconds.
-  path: Assets/CorgiEngine/Demos/Corgi3D/Sounds/Corgi3DJump2.wav
-  artifactKey: Guid(8aba7a886f1a1a24eb29177381c58996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Demos/Corgi3D/Sounds/Corgi3DJump2.wav using Guid(8aba7a886f1a1a24eb29177381c58996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4e3fba5a59404cc505f97e42bfbf71') in 0.023381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/CorgiEngine/Demos/Retro/Sounds/KoalaJump.wav
-  artifactKey: Guid(38340c610ade4ab49bc7fbeade4db6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Demos/Retro/Sounds/KoalaJump.wav using Guid(38340c610ade4ab49bc7fbeade4db6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a8e26328040120bd09e5f266cdb481') in 0.025505 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMFeedbacks/Demos/MMFeedbacksDemo/Sounds/MMFeedbacksDemoJump.ogg
-  artifactKey: Guid(9a737b6be1e4e464796a6f12073ac12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/ThirdParty/MoreMountains/MMFeedbacks/Demos/MMFeedbacksDemo/Sounds/MMFeedbacksDemoJump.ogg using Guid(9a737b6be1e4e464796a6f12073ac12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1422183437e45cc162f1b267107f5e8a') in 0.035546 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/CorgiEngine/Demos/Corgi3D/Sounds/Corgi3DJump3.wav
-  artifactKey: Guid(1021a8606f0bbfb4d955595e1330828a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Demos/Corgi3D/Sounds/Corgi3DJump3.wav using Guid(1021a8606f0bbfb4d955595e1330828a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a99fcadd3ff911f3b5512cfc380137c') in 0.023675 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010414 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.34 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.419 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1419ms)
-		BeginReloadAssembly (173ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1126ms)
-			LoadAssemblies (132ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (353ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (79ms)
-			SetupLoadedEditorAssemblies (503ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (97ms)
-				ProcessInitializeOnLoadAttributes (337ms)
-				ProcessInitializeOnLoadMethodAttributes (51ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (16ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 6.33 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5058 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (1.3 MB). Loaded Objects now: 5612.
-Memory consumption went from 277.8 MB to 276.5 MB.
-Total: 6.347400 ms (FindLiveObjects: 0.718200 ms CreateObjectMapping: 0.296800 ms MarkObjects: 4.858800 ms  DeleteObjects: 0.472000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 35.680932 seconds.
-  path: Assets/_Forest Adventure/Art/2D Pack/player-idle-1.prefab
-  artifactKey: Guid(8f492c030db8218489d78f4e287ab3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Forest Adventure/Art/2D Pack/player-idle-1.prefab using Guid(8f492c030db8218489d78f4e287ab3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Hero Animator': Transition 'AnyState -> throw' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
-UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
-UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
-UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
-UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
-UnityEditor.GameObjectInspector:GetPreviewData ()
-UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 1838]
-
- -> (artifact id: '06ae38078cdc8ceea973db7058054784') in 0.178695 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009330 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.304 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1305ms)
-		BeginReloadAssembly (160ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (45ms)
-		EndReloadAssembly (1024ms)
-			LoadAssemblies (118ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (336ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (64ms)
-			SetupLoadedEditorAssemblies (447ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (91ms)
-				ProcessInitializeOnLoadAttributes (297ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 4.75 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5058 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (1.3 MB). Loaded Objects now: 5627.
-Memory consumption went from 278.0 MB to 276.7 MB.
-Total: 4.695500 ms (FindLiveObjects: 0.474000 ms CreateObjectMapping: 0.156600 ms MarkObjects: 3.563900 ms  DeleteObjects: 0.499700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 47.988847 seconds.
-  path: Assets/_Forest Adventure/Art/2D Pack/player-idle-1.prefab
-  artifactKey: Guid(8f492c030db8218489d78f4e287ab3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Forest Adventure/Art/2D Pack/player-idle-1.prefab using Guid(8f492c030db8218489d78f4e287ab3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Hero Animator': Transition 'AnyState -> throw' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
-UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
-UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
-UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
-UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
-UnityEditor.GameObjectInspector:GetPreviewData ()
-UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 1838]
-
- -> (artifact id: '1ad0fa73c662d52bd879f8d51aeddebe') in 0.148364 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010385 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mesle\Desktop\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.298 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1299ms)
-		BeginReloadAssembly (159ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1027ms)
-			LoadAssemblies (117ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (323ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (72ms)
-			SetupLoadedEditorAssemblies (450ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (88ms)
-				ProcessInitializeOnLoadAttributes (308ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
-Refreshing native plugins compatible for Editor in 3.67 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5058 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 35 unused Assets / (1.3 MB). Loaded Objects now: 5642.
-Memory consumption went from 278.1 MB to 276.7 MB.
-Total: 5.861500 ms (FindLiveObjects: 0.729300 ms CreateObjectMapping: 0.263100 ms MarkObjects: 4.460700 ms  DeleteObjects: 0.406600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 81.804266 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/gun.wav
-  artifactKey: Guid(7e992ab4aafc96e47b6bb8cacb5bc9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/gun.wav using Guid(7e992ab4aafc96e47b6bb8cacb5bc9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a093189d6fae57fc722f67eb3b06221') in 0.072092 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000427 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-sand.wav
-  artifactKey: Guid(5b37c17d391254937b921e5debf7dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-sand.wav using Guid(5b37c17d391254937b921e5debf7dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7448a86beaadfe532dae68fa28c34b73') in 0.032778 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-shut-down.wav
-  artifactKey: Guid(4271e87a3666f45f5b07e5d7fc4c802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-shut-down.wav using Guid(4271e87a3666f45f5b07e5d7fc4c802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40eac87634089ea536b9ba694248d4da') in 0.026088 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-steal.wav
-  artifactKey: Guid(96f7d951fb4e6f04586f3309d84bef1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-steal.wav using Guid(96f7d951fb4e6f04586f3309d84bef1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4050d3d86e67560bff8cd962d72fcb') in 0.024318 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/low-thump.wav
-  artifactKey: Guid(00cf92732b4a342acb456b39378f53bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/low-thump.wav using Guid(00cf92732b4a342acb456b39378f53bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a7669c022202e33dffee60396b0ef1') in 0.019828 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-burning-transistor.wav
-  artifactKey: Guid(00e54396a637d49f987f9e2c6ab27f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-burning-transistor.wav using Guid(00e54396a637d49f987f9e2c6ab27f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e184e57c28034db6625c87ca23673f91') in 0.035296 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-air-engine.wav
-  artifactKey: Guid(61e3d0e18e21c4916a8b36fd2a77e5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-air-engine.wav using Guid(61e3d0e18e21c4916a8b36fd2a77e5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025828ea3db04818606448fece790c56') in 0.024221 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-robo-toggle.wav
-  artifactKey: Guid(87a92107adff942d3b91dc9cd490455e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-robo-toggle.wav using Guid(87a92107adff942d3b91dc9cd490455e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5778f9edce4ecdab79c7d1122910c1c6') in 0.021359 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/hit-wav.wav
-  artifactKey: Guid(fc6a8ed8f767ee7449dc2f51593060a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/hit-wav.wav using Guid(fc6a8ed8f767ee7449dc2f51593060a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd450a630cb38087c14ade88a36929116') in 0.021941 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-twitch.wav
-  artifactKey: Guid(7ee80f0461acd534a90a49556f875321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-twitch.wav using Guid(7ee80f0461acd534a90a49556f875321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4fde84d3115bd02a94c72ae30c3c08') in 0.021288 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-wobbling-shield.wav
-  artifactKey: Guid(b6aa1ddaf50d04005853bcc9d1cf0803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-wobbling-shield.wav using Guid(b6aa1ddaf50d04005853bcc9d1cf0803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42850fe42364b52800ff65dd3bc07793') in 0.020125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-bump.wav
-  artifactKey: Guid(b34e4aabd474c45c2945fc9c6eec8381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-bump.wav using Guid(b34e4aabd474c45c2945fc9c6eec8381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2ee5c2cc0f7d9ec9fa85306336a050') in 0.020015 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-fake-wind.wav
-  artifactKey: Guid(8348640ff8d5a4487a04c57702b3007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-fake-wind.wav using Guid(8348640ff8d5a4487a04c57702b3007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e43328c7e338d94232a4e0c953e8480') in 0.021307 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-blast.wav
-  artifactKey: Guid(0c4c2392015764ab79497163339b1fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-blast.wav using Guid(0c4c2392015764ab79497163339b1fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd236118072bfaedf0676a6889650d8f') in 0.021242 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-magic-whip.wav
-  artifactKey: Guid(33bfd8d4853e6454a86e71f67d84a6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-magic-whip.wav using Guid(33bfd8d4853e6454a86e71f67d84a6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f234f57ca8a0bbc5e1d198ef9116c9') in 0.019526 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/low-wind.wav
-  artifactKey: Guid(91088b398af39584c9de8b2ee19fcb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/low-wind.wav using Guid(91088b398af39584c9de8b2ee19fcb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06274e952caa89f2bbd0e22d6601719') in 0.021266 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-glassy-tap-02.wav
-  artifactKey: Guid(2e66f0795156e42f1bb55316f73f568e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-glassy-tap-02.wav using Guid(2e66f0795156e42f1bb55316f73f568e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd024b1f83ce3dca8e5cdfc2b2b35bacc') in 0.020327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-magic-exploding.wav
-  artifactKey: Guid(b13c45cee9b86400f9baf9a0887f955e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-magic-exploding.wav using Guid(b13c45cee9b86400f9baf9a0887f955e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f609a89e6629a01e18c7ee4c10b88243') in 0.018911 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-drop-02.wav
-  artifactKey: Guid(6b788158cece248e4bb7a9237ece9605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-drop-02.wav using Guid(6b788158cece248e4bb7a9237ece9605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ef826c00c93bc0c16b349db5aef539') in 0.021514 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-coin-04.wav
-  artifactKey: Guid(53d7a3adf877b4b72b7ec879fd0c0c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-coin-04.wav using Guid(53d7a3adf877b4b72b7ec879fd0c0c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8f6224374c6b87d3be1367fb3e37ee') in 0.021182 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-zap.wav
-  artifactKey: Guid(9ee1e97400b4d494aae223b9f68fa337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CorgiEngine/Common/Prefabs/Sounds/NFF-zap.wav using Guid(9ee1e97400b4d494aae223b9f68fa337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d51bdda43c60975d539ebae67ff90e4') in 0.019560 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0

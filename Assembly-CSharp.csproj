@@ -141,6 +141,7 @@
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\player" />
      <Folder Include="Assets\CorgiEngine" />
      <Folder Include="Assets\_Forest Adventure\TileSets" />
+     <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG\sprites\molores" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\GIF\sprites\eagle" />
      <Folder Include="Assets\CorgiEngine\Common" />
      <Folder Include="Assets\_Forest Adventure\Art\2D Pack\PNG" />
