@@ -535,6 +535,11 @@ PrefabInstance:
       propertyPath: m_Text
       value: "\u0412\u0432\u043E\u0434\u043D\u044B\u0439 \u0443\u0440\u043E\u043A\n"
       objectReference: {fileID: 0}
+    - target: {fileID: 114347271955761016, guid: 90948bd6e091f7346bc9853d09281e32,
+        type: 3}
+      propertyPath: m_Text
+      value: PLAY
+      objectReference: {fileID: 0}
     - target: {fileID: 114526695846891580, guid: 90948bd6e091f7346bc9853d09281e32,
         type: 3}
       propertyPath: m_Text
@@ -675,7 +680,7 @@ PrefabInstance:
     - target: {fileID: 224518304298186988, guid: f9c1d2640980b3944ad3815c18cc1cad,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 224518304298186988, guid: f9c1d2640980b3944ad3815c18cc1cad,
         type: 3}
